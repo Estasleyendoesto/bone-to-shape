@@ -1,2 +1,4 @@
 # Bone-vertex-weight-align
-Bone alignment by vertex weights
+![Cover](cover.jpg)
+
+> Bone alignment by vertex weights
