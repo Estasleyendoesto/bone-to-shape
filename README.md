@@ -1,4 +1,15 @@
-# Bone-vertex-weight-align
+# Bone to Shape
+![Cover](cover2.jpg)
+
+## Notas
+- Todo funciona ok
+- En las líneas inferiores del script está comentado una futura funcionalidad que no estoy seguro si hará falta implementar
+- Básicamente, intentará centrar el hueso después de alinearlo en el centro de la malla
+- Por último, usar la herramienta de forma manual resulta un poco tedioso, voy a implementar una pequeña herramienta para hacerlo de forma automática
+- Un .json on las instrucciones que se ejecutarán de forma automática.
+- Fin del comunicado
+
+## Old
 ![Cover](cover.jpg)
 
 > Bone alignment by vertex weights
